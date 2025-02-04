@@ -13,4 +13,4 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+improving the spacing between the texts by moving the text closer to each other, getting rid of a lot of wasted space. adding more color top the website by adding more pictures of the products that are being sold. Adding a review page at the bottom to show off customer reviews while also giving me feed back on how to improve customer survice.

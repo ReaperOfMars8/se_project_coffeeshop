@@ -23,14 +23,15 @@
 .menu__subtitle {
   margin: 0 0 100px;
   max-width: 780px;
-  font-family: "Noto Serif";
+  font-family: "Noto Serif", "Times new Roman", serif;
   font-style: normal;
   font-weight: normal;
   font-size: 20px;
   line-height: 30px;
-  align-items: center;
+  text-align: center;
 }
 
+,
 .menu__cards {
   margin: 0;
   padding: 0;

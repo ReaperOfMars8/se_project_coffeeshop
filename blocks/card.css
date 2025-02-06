@@ -1,5 +1,6 @@
 .card {
   width: 540px;
+  list-style-type: none;
 }
 
 .card__list {
